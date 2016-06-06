@@ -1,0 +1,404 @@
+Classifier: <method-wrapper '__str__' of MultinomialNB object at 0xb139bfac>	 Mean(scores)= 0.625327288822	Stddev(scores)= 0.0409014946566
+
+Classifier: <method-wrapper '__str__' of MultinomialNB object at 0xb139bfac>	 Mean(scores)= 0.777321266533	Stddev(scores)= 0.0106415970998
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.536682370545	Stddev(scores)= 0.014523735255	 Number of neighbours / trees= 2
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.55199135546	Stddev(scores)= 0.0119483079527	 Number of neighbours / trees= 3
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.544666866669	Stddev(scores)= 0.0235090578344	 Number of neighbours / trees= 4
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.560662511065	Stddev(scores)= 0.0107530144264	 Number of neighbours / trees= 5
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.554013622374	Stddev(scores)= 0.0169459175212	 Number of neighbours / trees= 6
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.553355918769	Stddev(scores)= 0.0303213929937	 Number of neighbours / trees= 7
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.543997970348	Stddev(scores)= 0.0221719702292	 Number of neighbours / trees= 8
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.544693578077	Stddev(scores)= 0.0176558737133	 Number of neighbours / trees= 9
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.539331288866	Stddev(scores)= 0.0225694968952	 Number of neighbours / trees= 10
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.530664666644	Stddev(scores)= 0.0237192004415	 Number of neighbours / trees= 11
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.534657918421	Stddev(scores)= 0.0188840035974	 Number of neighbours / trees= 12
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.538675726027	Stddev(scores)= 0.013416998158	 Number of neighbours / trees= 13
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.551331244421	Stddev(scores)= 0.0228853140622	 Number of neighbours / trees= 14
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.549982377582	Stddev(scores)= 0.024091550432	 Number of neighbours / trees= 15
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.559984592421	Stddev(scores)= 0.0299037727763	 Number of neighbours / trees= 16
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.556620206891	Stddev(scores)= 0.0335648230924	 Number of neighbours / trees= 17
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.565291347682	Stddev(scores)= 0.0276541185767	 Number of neighbours / trees= 18
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.55529580699	Stddev(scores)= 0.0337223579968	 Number of neighbours / trees= 19
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.562638044126	Stddev(scores)= 0.0252022172919	 Number of neighbours / trees= 20
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.561964718126	Stddev(scores)= 0.0269463870116	 Number of neighbours / trees= 21
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.561306940447	Stddev(scores)= 0.0284105506689	 Number of neighbours / trees= 22
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.562624740275	Stddev(scores)= 0.0286212726696	 Number of neighbours / trees= 23
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.552637999681	Stddev(scores)= 0.0211909941305	 Number of neighbours / trees= 24
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.554640258966	Stddev(scores)= 0.0256134383102	 Number of neighbours / trees= 25
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.564638058941	Stddev(scores)= 0.0341271504375	 Number of neighbours / trees= 26
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.554638029311	Stddev(scores)= 0.0265908898529	 Number of neighbours / trees= 27
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.549304666348	Stddev(scores)= 0.0210813347433	 Number of neighbours / trees= 28
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.54529577736	Stddev(scores)= 0.02179966312	 Number of neighbours / trees= 29
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.54996910336	Stddev(scores)= 0.0230072682259	 Number of neighbours / trees= 30
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.553975821954	Stddev(scores)= 0.0222040210789	 Number of neighbours / trees= 31
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.560635829287	Stddev(scores)= 0.022038147066	 Number of neighbours / trees= 32
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.557311384941	Stddev(scores)= 0.0192636723482	 Number of neighbours / trees= 33
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.552640258966	Stddev(scores)= 0.015258816473	 Number of neighbours / trees= 34
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.55197137746	Stddev(scores)= 0.0223081207937	 Number of neighbours / trees= 35
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.560646947929	Stddev(scores)= 0.0166080191187	 Number of neighbours / trees= 36
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.557982481287	Stddev(scores)= 0.0234648254156	 Number of neighbours / trees= 37
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.557986925781	Stddev(scores)= 0.019436699724	 Number of neighbours / trees= 38
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.557320229484	Stddev(scores)= 0.0145871077609	 Number of neighbours / trees= 39
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.553315799805	Stddev(scores)= 0.0127017626879	 Number of neighbours / trees= 40
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.548640184891	Stddev(scores)= 0.0156256454912	 Number of neighbours / trees= 41
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.547309051582	Stddev(scores)= 0.0192487143361	 Number of neighbours / trees= 42
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.549302421879	Stddev(scores)= 0.0180842103966	 Number of neighbours / trees= 43
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.547297918125	Stddev(scores)= 0.0233710027022	 Number of neighbours / trees= 44
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.544640125631	Stddev(scores)= 0.0254040162712	 Number of neighbours / trees= 45
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.549313481261	Stddev(scores)= 0.0212388137782	 Number of neighbours / trees= 46
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.549984636866	Stddev(scores)= 0.0252097846112	 Number of neighbours / trees= 47
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.549984622051	Stddev(scores)= 0.0214000152255	 Number of neighbours / trees= 48
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.5493179702	Stddev(scores)= 0.0190193316966	 Number of neighbours / trees= 49
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.541313451631	Stddev(scores)= 0.0272227444485	 Number of neighbours / trees= 50
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.547975718249	Stddev(scores)= 0.0279342649275	 Number of neighbours / trees= 51
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.542649014619	Stddev(scores)= 0.0277319268494	 Number of neighbours / trees= 52
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.541977918273	Stddev(scores)= 0.0232032305468	 Number of neighbours / trees= 53
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.543311236792	Stddev(scores)= 0.022172789648	 Number of neighbours / trees= 54
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.542644599755	Stddev(scores)= 0.0214867471304	 Number of neighbours / trees= 55
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.545315710915	Stddev(scores)= 0.0233003217356	 Number of neighbours / trees= 56
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.547311266421	Stddev(scores)= 0.0194278618392	 Number of neighbours / trees= 57
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.549309051582	Stddev(scores)= 0.0256807129864	 Number of neighbours / trees= 58
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.550637925607	Stddev(scores)= 0.0263685980024	 Number of neighbours / trees= 59
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.548633451483	Stddev(scores)= 0.0341097024271	 Number of neighbours / trees= 60
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.549309036767	Stddev(scores)= 0.0332973300942	 Number of neighbours / trees= 61
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.553982392397	Stddev(scores)= 0.0278862283648	 Number of neighbours / trees= 62
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.54864458494	Stddev(scores)= 0.0309267215949	 Number of neighbours / trees= 63
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.556649088694	Stddev(scores)= 0.0284006855354	 Number of neighbours / trees= 64
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.549997925903	Stddev(scores)= 0.031849182079	 Number of neighbours / trees= 65
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.550660162891	Stddev(scores)= 0.0289507152163	 Number of neighbours / trees= 66
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.546660162891	Stddev(scores)= 0.0239602145509	 Number of neighbours / trees= 67
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.547324599903	Stddev(scores)= 0.0292164190586	 Number of neighbours / trees= 68
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.545320140594	Stddev(scores)= 0.0275876294877	 Number of neighbours / trees= 69
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.547320155409	Stddev(scores)= 0.0260780551808	 Number of neighbours / trees= 70
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.549315681285	Stddev(scores)= 0.0319785625186	 Number of neighbours / trees= 71
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.548640170076	Stddev(scores)= 0.0266679754148	 Number of neighbours / trees= 72
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.546646814594	Stddev(scores)= 0.0246820492505	 Number of neighbours / trees= 73
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.559313540521	Stddev(scores)= 0.0194759760559	 Number of neighbours / trees= 74
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.547313496076	Stddev(scores)= 0.0239830624303	 Number of neighbours / trees= 75
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.554642444175	Stddev(scores)= 0.0218433030998	 Number of neighbours / trees= 76
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.546637955237	Stddev(scores)= 0.0285048876816	 Number of neighbours / trees= 77
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.553302407064	Stddev(scores)= 0.0232218445503	 Number of neighbours / trees= 78
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.549964614422	Stddev(scores)= 0.0251507226884	 Number of neighbours / trees= 79
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.553302407064	Stddev(scores)= 0.0234124529515	 Number of neighbours / trees= 80
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.553293518076	Stddev(scores)= 0.0264334035002	 Number of neighbours / trees= 81
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.553969058915	Stddev(scores)= 0.0232698505504	 Number of neighbours / trees= 82
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.547962369952	Stddev(scores)= 0.0239939690275	 Number of neighbours / trees= 83
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.549300162594	Stddev(scores)= 0.024247980611	 Number of neighbours / trees= 84
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.549957940273	Stddev(scores)= 0.025193440356	 Number of neighbours / trees= 85
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.546635710767	Stddev(scores)= 0.0224524331701	 Number of neighbours / trees= 86
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.546633466298	Stddev(scores)= 0.0230989672517	 Number of neighbours / trees= 87
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.553295732916	Stddev(scores)= 0.0234567469723	 Number of neighbours / trees= 88
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.55329793294	Stddev(scores)= 0.0269555280683	 Number of neighbours / trees= 89
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.547966814446	Stddev(scores)= 0.0268801245354	 Number of neighbours / trees= 90
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.549302377434	Stddev(scores)= 0.0259796751337	 Number of neighbours / trees= 91
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.553306866373	Stddev(scores)= 0.0221421970785	 Number of neighbours / trees= 92
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.552640170076	Stddev(scores)= 0.0256353401231	 Number of neighbours / trees= 93
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.55062682178	Stddev(scores)= 0.0290443686132	 Number of neighbours / trees= 94
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.552633510743	Stddev(scores)= 0.0260121507085	 Number of neighbours / trees= 95
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.554633525558	Stddev(scores)= 0.0222483461297	 Number of neighbours / trees= 96
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.555306851558	Stddev(scores)= 0.0230955142019	 Number of neighbours / trees= 97
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.553297947755	Stddev(scores)= 0.0257663708487	 Number of neighbours / trees= 98
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111282c>	 Mean(scores)= 0.556626881039	Stddev(scores)= 0.0257366014496	 Number of neighbours / trees= 99
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb10bfacc>	 Mean(scores)= 0.762596762186	Stddev(scores)= 0.0366517850391	 Number of neighbours / trees= 2
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb10af6cc>	 Mean(scores)= 0.798636881151	Stddev(scores)= 0.0177973907487	 Number of neighbours / trees= 3
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb3af3ecc>	 Mean(scores)= 0.801319081323	Stddev(scores)= 0.0150457547219	 Number of neighbours / trees= 4
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb10af6cc>	 Mean(scores)= 0.813316896114	Stddev(scores)= 0.0183199175141	 Number of neighbours / trees= 5
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb3af3ecc>	 Mean(scores)= 0.809994681422	Stddev(scores)= 0.0193732929816	 Number of neighbours / trees= 6
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.813330259225	Stddev(scores)= 0.0133724980367	 Number of neighbours / trees= 7
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb13a44ec>	 Mean(scores)= 0.813994755497	Stddev(scores)= 0.00837410826252	 Number of neighbours / trees= 8
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.82200147409	Stddev(scores)= 0.0134108444094	 Number of neighbours / trees= 9
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb13a44ec>	 Mean(scores)= 0.820668125942	Stddev(scores)= 0.018167472813	 Number of neighbours / trees= 10
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.82200368893	Stddev(scores)= 0.0162346953637	 Number of neighbours / trees= 11
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb10ab20c>	 Mean(scores)= 0.821339237103	Stddev(scores)= 0.0111819531771	 Number of neighbours / trees= 12
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.824014807572	Stddev(scores)= 0.0143451748874	 Number of neighbours / trees= 13
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb10ab20c>	 Mean(scores)= 0.822019266881	Stddev(scores)= 0.0153847657908	 Number of neighbours / trees= 14
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.822679259399	Stddev(scores)= 0.0123807116671	 Number of neighbours / trees= 15
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb12b706c>	 Mean(scores)= 0.826005933399	Stddev(scores)= 0.00965086219624	 Number of neighbours / trees= 16
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.829999288881	Stddev(scores)= 0.0111599284554	 Number of neighbours / trees= 17
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb12b706c>	 Mean(scores)= 0.825997059227	Stddev(scores)= 0.0125736044745	 Number of neighbours / trees= 18
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.826652622066	Stddev(scores)= 0.0144378546998	 Number of neighbours / trees= 19
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb12b706c>	 Mean(scores)= 0.828654866536	Stddev(scores)= 0.0153929995169	 Number of neighbours / trees= 20
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.827319288733	Stddev(scores)= 0.0137122547389	 Number of neighbours / trees= 21
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb12b706c>	 Mean(scores)= 0.8299859554	Stddev(scores)= 0.012810184798	 Number of neighbours / trees= 22
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.827985940585	Stddev(scores)= 0.0106566901562	 Number of neighbours / trees= 23
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.828650377597	Stddev(scores)= 0.00982879877364	 Number of neighbours / trees= 24
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.827314814609	Stddev(scores)= 0.0108957916663	 Number of neighbours / trees= 25
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.827323718412	Stddev(scores)= 0.0107578939787	 Number of neighbours / trees= 26
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.826661496239	Stddev(scores)= 0.010182799575	 Number of neighbours / trees= 27
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.824659266584	Stddev(scores)= 0.0111729623458	 Number of neighbours / trees= 28
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.826657051745	Stddev(scores)= 0.0118578392573	 Number of neighbours / trees= 29
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.821321473942	Stddev(scores)= 0.0110383296446	 Number of neighbours / trees= 30
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.823321488757	Stddev(scores)= 0.0120720514974	 Number of neighbours / trees= 31
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.821319244288	Stddev(scores)= 0.0110743433273	 Number of neighbours / trees= 32
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.82398592577	Stddev(scores)= 0.0110290436185	 Number of neighbours / trees= 33
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.818650347967	Stddev(scores)= 0.0141044578026	 Number of neighbours / trees= 34
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.817979236806	Stddev(scores)= 0.0163406175716	 Number of neighbours / trees= 35
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.819981481276	Stddev(scores)= 0.0160900936145	 Number of neighbours / trees= 36
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.821979266436	Stddev(scores)= 0.0161921191188	 Number of neighbours / trees= 37
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.823985940585	Stddev(scores)= 0.0161006318988	 Number of neighbours / trees= 38
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.823325933251	Stddev(scores)= 0.0158441653693	 Number of neighbours / trees= 39
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.824657051745	Stddev(scores)= 0.0155246364405	 Number of neighbours / trees= 40
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.824654822091	Stddev(scores)= 0.0162477147659	 Number of neighbours / trees= 41
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.824657051745	Stddev(scores)= 0.0159482810968	 Number of neighbours / trees= 42
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.82265703693	Stddev(scores)= 0.0146132903479	 Number of neighbours / trees= 43
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.823325933251	Stddev(scores)= 0.0145271324166	 Number of neighbours / trees= 44
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.821992585103	Stddev(scores)= 0.0138405461866	 Number of neighbours / trees= 45
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.81865703693	Stddev(scores)= 0.0162249497589	 Number of neighbours / trees= 46
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.819323703597	Stddev(scores)= 0.0156395386012	 Number of neighbours / trees= 47
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.81865703693	Stddev(scores)= 0.0162249497589	 Number of neighbours / trees= 48
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.819323703597	Stddev(scores)= 0.0153527287077	 Number of neighbours / trees= 49
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.817992585103	Stddev(scores)= 0.0153605287673	 Number of neighbours / trees= 50
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.819992599918	Stddev(scores)= 0.0157017132162	 Number of neighbours / trees= 51
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.819328148091	Stddev(scores)= 0.0148665894472	 Number of neighbours / trees= 52
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.819325933251	Stddev(scores)= 0.0165824719385	 Number of neighbours / trees= 53
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.818661496239	Stddev(scores)= 0.0177528092395	 Number of neighbours / trees= 54
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.818661496239	Stddev(scores)= 0.0177528092395	 Number of neighbours / trees= 55
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.817328162906	Stddev(scores)= 0.0182218916959	 Number of neighbours / trees= 56
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.817994829572	Stddev(scores)= 0.0176269934347	 Number of neighbours / trees= 57
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.818661496239	Stddev(scores)= 0.0177528092395	 Number of neighbours / trees= 58
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.819328162906	Stddev(scores)= 0.0179769054567	 Number of neighbours / trees= 59
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.816661496239	Stddev(scores)= 0.0181728551773	 Number of neighbours / trees= 60
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.818661496239	Stddev(scores)= 0.0186084214002	 Number of neighbours / trees= 61
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.817330377745	Stddev(scores)= 0.0185674435323	 Number of neighbours / trees= 62
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.818663711078	Stddev(scores)= 0.0169667012705	 Number of neighbours / trees= 63
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.817332607399	Stddev(scores)= 0.0180641281024	 Number of neighbours / trees= 64
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.815997044412	Stddev(scores)= 0.0180821541852	 Number of neighbours / trees= 65
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.816665940733	Stddev(scores)= 0.0187403480511	 Number of neighbours / trees= 66
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.815330377745	Stddev(scores)= 0.0189462492117	 Number of neighbours / trees= 67
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.811999244436	Stddev(scores)= 0.0173362536985	 Number of neighbours / trees= 68
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.812668140757	Stddev(scores)= 0.0182905694497	 Number of neighbours / trees= 69
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.810661451794	Stddev(scores)= 0.0153100118005	 Number of neighbours / trees= 70
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.808661451794	Stddev(scores)= 0.0175035882561	 Number of neighbours / trees= 71
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.809330348115	Stddev(scores)= 0.0165429576191	 Number of neighbours / trees= 72
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.807994785127	Stddev(scores)= 0.0165908871844	 Number of neighbours / trees= 73
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.804665881473	Stddev(scores)= 0.0174642003836	 Number of neighbours / trees= 74
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.805332548139	Stddev(scores)= 0.0165495689024	 Number of neighbours / trees= 75
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.803999214806	Stddev(scores)= 0.0180646223721	 Number of neighbours / trees= 76
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.803999214806	Stddev(scores)= 0.0180646223721	 Number of neighbours / trees= 77
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.804663666633	Stddev(scores)= 0.018230400478	 Number of neighbours / trees= 78
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.804661451794	Stddev(scores)= 0.0199916786737	 Number of neighbours / trees= 79
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.802663651818	Stddev(scores)= 0.0177118130637	 Number of neighbours / trees= 80
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.803994770312	Stddev(scores)= 0.0185878199259	 Number of neighbours / trees= 81
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.801328088831	Stddev(scores)= 0.0176318381726	 Number of neighbours / trees= 82
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.803325873991	Stddev(scores)= 0.0177018950123	 Number of neighbours / trees= 83
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.799996970337	Stddev(scores)= 0.0167583727858	 Number of neighbours / trees= 84
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.80133030367	Stddev(scores)= 0.016969450452	 Number of neighbours / trees= 85
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.79933030367	Stddev(scores)= 0.0177123659562	 Number of neighbours / trees= 86
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.799996970337	Stddev(scores)= 0.0167583727858	 Number of neighbours / trees= 87
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.79933030367	Stddev(scores)= 0.0177123659562	 Number of neighbours / trees= 88
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.79933030367	Stddev(scores)= 0.0177123659562	 Number of neighbours / trees= 89
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.794672481546	Stddev(scores)= 0.0139996106407	 Number of neighbours / trees= 90
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.793336918558	Stddev(scores)= 0.0140905391837	 Number of neighbours / trees= 91
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.790668007422	Stddev(scores)= 0.0128664321476	 Number of neighbours / trees= 92
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.790001340756	Stddev(scores)= 0.0136378630411	 Number of neighbours / trees= 93
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.789334674089	Stddev(scores)= 0.0144911385337	 Number of neighbours / trees= 94
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.79000357041	Stddev(scores)= 0.0151535526525	 Number of neighbours / trees= 95
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.789339118583	Stddev(scores)= 0.014738685784	 Number of neighbours / trees= 96
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.789339118583	Stddev(scores)= 0.014738685784	 Number of neighbours / trees= 97
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb11019cc>	 Mean(scores)= 0.789341348237	Stddev(scores)= 0.0140953260897	 Number of neighbours / trees= 98
+
+Classifier: <method-wrapper '__str__' of KNeighborsClassifier object at 0xb111724c>	 Mean(scores)= 0.790010244558	Stddev(scores)= 0.0160737645813	 Number of neighbours / trees= 99
+
+RandomForestClassifier 0.836 ! {'n_estimators': 400}
+
+RandomForestClassifier 0.801333333333 ! {'n_estimators': 1700}
+
+ExtraTreesClassifier 0.812 ! {'n_estimators': 400}
+
+ExtraTreesClassifier 0.794 ! {'n_estimators': 10}
+

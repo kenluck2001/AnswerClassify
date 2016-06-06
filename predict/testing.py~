@@ -1,0 +1,7 @@
+def logFile ( message, logfile="result.txt"):
+    with open(fname, 'a') as the_file:
+        the_file.write(message + '\n')
+
+if __name__ == '__main__':
+    logFile ( "cal me")
+
